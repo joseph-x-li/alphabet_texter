@@ -74,10 +74,10 @@ public class AlphabetTexter
 			Game();
 		}
 		cin.close();
-//		long start = System.currentTimeMillis();
-//		// some time passes
-//		long end = System.currentTimeMillis();
-//		long elapsedTime = end - start;
+		// long start = System.currentTimeMillis();
+		// // some time passes
+		// long end = System.currentTimeMillis();
+		// long elapsedTime = end - start;
 
 	}
 

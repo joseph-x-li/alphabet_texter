@@ -1,3 +1,3 @@
-# alphabet_texter
+# java-alphabet-texter
 
 lmao just type the alphabet whats so hard abut that
